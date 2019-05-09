@@ -22,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/jdbcdemo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="324">
+              <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -135,7 +135,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.jdbcdemo1.demo1">
     <configuration name="CalculateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="jdbc" />
       <option name="PACKAGE_NAME" value="" />
@@ -145,8 +145,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="jdbcdemo1.demo1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdbc" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="jdbcdemo1" />
+      <option name="METHOD_NAME" value="demo1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.jdbcdemo1.demo1" />
         <item itemvalue="JUnit.CalculateTest" />
       </list>
     </recent_temporary>
@@ -164,7 +175,7 @@
       <workItem from="1557331011349" duration="478000" />
       <workItem from="1557395799849" duration="279000" />
       <workItem from="1557396134601" duration="3336000" />
-      <workItem from="1557401048586" duration="554000" />
+      <workItem from="1557401048586" duration="1545000" />
     </task>
     <servers />
   </component>
@@ -186,11 +197,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4647000" />
+    <option name="totallyTimeSpent" value="5638000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.26050422" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -201,7 +211,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32849365" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25693431" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38978103" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -265,8 +275,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jdbcdemo1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="324">
+          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
