@@ -1,7 +1,9 @@
-import com.mysql.jdbc.Driver;
 import org.junit.Test;
 
-import java.sql.*;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.Statement;
 
 public class jdbcdemo1 {
 
@@ -11,8 +13,9 @@ public class jdbcdemo1 {
     public void demo1()
     {
         try {
-//        加载驱动
-            DriverManager.registerDriver(new Driver());
+//        1加载驱动 两种方式
+//            DriverManager.registerDriver(new Driver()); 注册两次
+            Class.forName("com.mysql.jdbc.Driver");
 //        2获得连接
             Connection connection= DriverManager.getConnection("jdbc:mysql://localhost:3306/jdbctest", "root", "mysql");
 //        3创建执行语句
@@ -32,8 +35,8 @@ public class jdbcdemo1 {
             stmt.close();
             connection.close();
         }
-            catch(SQLException e){
-                e.printStackTrace();
+            catch(Exception e1){
+                e1.printStackTrace();
             }
     }
 }
