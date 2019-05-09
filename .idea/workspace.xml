@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dff89617-de7d-4e6c-8ebb-b6027d422dee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jdbcdemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javademodelete.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jdbc/jdbcdemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jdbc/jdbcdemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jdbcdemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jdbcdemo1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,10 +32,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/jdbcdemo2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
+            <state relative-caret-position="253">
+              <caret line="47" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="47" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/javademodelete.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
               <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -75,6 +84,7 @@
         <option value="$PROJECT_DIR$/unit/src/CalculateTest.java" />
         <option value="$PROJECT_DIR$/src/jdbcdemo1.java" />
         <option value="$PROJECT_DIR$/src/jdbcdemo2.java" />
+        <option value="$PROJECT_DIR$/src/javademodelete.java" />
       </list>
     </option>
   </component>
@@ -161,11 +171,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.jdbcdemo2">
+  <component name="RunManager" selected="JUnit.javademodelete">
     <configuration name="CalculateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="jdbc" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="CalculateTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="javademodelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdbc" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="javademodelete" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -192,6 +211,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.javademodelete" />
         <item itemvalue="JUnit.jdbcdemo2" />
         <item itemvalue="JUnit.jdbcdemo1.demo1" />
         <item itemvalue="JUnit.CalculateTest" />
@@ -211,44 +231,44 @@
       <workItem from="1557331011349" duration="478000" />
       <workItem from="1557395799849" duration="279000" />
       <workItem from="1557396134601" duration="3336000" />
-      <workItem from="1557401048586" duration="8738000" />
+      <workItem from="1557401048586" duration="9550000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="jdbcdemo2 - 2019.05.09 at 23h 41m 38s.xml">
+    <history-entry file="jdbcdemo2 - 2019.05.10 at 00h 02m 51s.xml">
       <configuration name="jdbcdemo2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="jdbcdemo2 - 2019.05.09 at 23h 42m 06s.xml">
+    <history-entry file="jdbcdemo2 - 2019.05.10 at 00h 03m 03s.xml">
       <configuration name="jdbcdemo2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="jdbcdemo2 - 2019.05.09 at 23h 42m 37s.xml">
-      <configuration name="jdbcdemo2" configurationId="JUnit" />
+    <history-entry file="javademodelete - 2019.05.10 at 00h 03m 18s.xml">
+      <configuration name="javademodelete" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="jdbcdemo2 - 2019.05.09 at 23h 42m 48s.xml">
-      <configuration name="jdbcdemo2" configurationId="JUnit" />
+    <history-entry file="javademodelete - 2019.05.10 at 00h 03m 24s.xml">
+      <configuration name="javademodelete" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="jdbcdemo2 - 2019.05.09 at 23h 43m 04s.xml">
-      <configuration name="jdbcdemo2" configurationId="JUnit" />
+    <history-entry file="javademodelete - 2019.05.10 at 00h 03m 28s.xml">
+      <configuration name="javademodelete" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="jdbcdemo2 - 2019.05.09 at 23h 43m 38s.xml">
-      <configuration name="jdbcdemo2" configurationId="JUnit" />
+    <history-entry file="javademodelete - 2019.05.10 at 00h 03m 56s.xml">
+      <configuration name="javademodelete" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="jdbcdemo2 - 2019.05.09 at 23h 44m 32s.xml">
-      <configuration name="jdbcdemo2" configurationId="JUnit" />
+    <history-entry file="javademodelete - 2019.05.10 at 00h 04m 06s.xml">
+      <configuration name="javademodelete" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="jdbcdemo2 - 2019.05.09 at 23h 45m 26s.xml">
-      <configuration name="jdbcdemo2" configurationId="JUnit" />
+    <history-entry file="javademodelete - 2019.05.10 at 00h 04m 25s.xml">
+      <configuration name="javademodelete" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="jdbcdemo2 - 2019.05.09 at 23h 47m 40s.xml">
-      <configuration name="jdbcdemo2" configurationId="JUnit" />
+    <history-entry file="javademodelete - 2019.05.10 at 00h 04m 34s.xml">
+      <configuration name="javademodelete" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="jdbcdemo2 - 2019.05.09 at 23h 49m 36s.xml">
-      <configuration name="jdbcdemo2" configurationId="JUnit" />
+    <history-entry file="javademodelete - 2019.05.10 at 00h 04m 50s.xml">
+      <configuration name="javademodelete" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12831000" />
+    <option name="totallyTimeSpent" value="13643000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -263,7 +283,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32849365" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.47591242" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25693431" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -344,7 +364,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jdbcdemo2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
+        <state relative-caret-position="253">
+          <caret line="47" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="47" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javademodelete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
           <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
