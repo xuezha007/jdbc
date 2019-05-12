@@ -1,0 +1,7 @@
+//1加载属性文件并解析
+Properties probs=new Properties();
+2获取输入流 通过类的加载器
+InputStream inStream=jdbcutils.class.getClassLoader().getResourceAsStream("jdbc.properties")
+probs.load(inStream);
+
+3 url=probs.getProperty("key")
