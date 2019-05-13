@@ -35,7 +35,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/jdbcdemo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-230">
+            <state relative-caret-position="161">
               <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -126,7 +126,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="656" />
     <option name="y" value="305" />
     <option name="width" value="1260" />
@@ -287,7 +287,7 @@
       <workItem from="1557396134601" duration="3336000" />
       <workItem from="1557401048586" duration="9550000" />
       <workItem from="1557665835824" duration="1697000" />
-      <workItem from="1557724074355" duration="3656000" />
+      <workItem from="1557724074355" duration="4247000" />
     </task>
     <servers />
   </component>
@@ -324,7 +324,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20263000" />
+    <option name="totallyTimeSpent" value="20854000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
@@ -457,7 +457,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/jdbcdemo1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-230">
+        <state relative-caret-position="161">
           <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
